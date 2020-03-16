@@ -7,6 +7,7 @@ puts array[counter]
   counter * counter
   counter +=1
 
-(square_array([1,2,3])
 end
+
+(square_array([1,2,3])
 end
