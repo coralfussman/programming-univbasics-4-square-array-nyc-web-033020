@@ -8,6 +8,6 @@ puts array[counter]
   counter +=1
 
 end
-end
-
 square_array(numbers)
+
+end
