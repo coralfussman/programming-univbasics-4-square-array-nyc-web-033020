@@ -1,5 +1,5 @@
 def square_array(array)
-number =[]
+new_ =[]
 counter = 0
 while counter < array.length do
 
