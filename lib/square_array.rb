@@ -4,7 +4,7 @@ counter = 0
 while counter < array.length do
 
 puts array[counter]
-  array * array
+  number * number
   counter +=1
 end
 end
