@@ -8,6 +8,5 @@ puts array[counter]
   counter +=1
 
 end
-square_array(numbers)
 
 end
