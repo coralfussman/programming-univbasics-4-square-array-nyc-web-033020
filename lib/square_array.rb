@@ -9,4 +9,4 @@ puts array[counter]
 
 end
 end
-square_array([4,5,9])
+square_array(numbers)
