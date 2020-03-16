@@ -9,4 +9,5 @@ puts array[counter]
 
 end
 end
+
 square_array(numbers)
