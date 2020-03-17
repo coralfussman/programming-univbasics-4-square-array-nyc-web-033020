@@ -7,5 +7,5 @@ puts array[counter]
   new_array.push array[counter] ** 2
   counter +=1
 end
+new_array
 end
-square_array([1,2,3])
