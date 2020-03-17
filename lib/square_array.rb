@@ -3,9 +3,9 @@ new_array =[]
 counter = 0
 while counter < array.length do
 
-  new_array.push(numbers[counter] * numbers[counter])
-    counter += 1
-
+puts array[counter]
+  new_array.push counter * counter
+  counter +=1
 end
-return new_array
 end
+square_array([1,2,3])
